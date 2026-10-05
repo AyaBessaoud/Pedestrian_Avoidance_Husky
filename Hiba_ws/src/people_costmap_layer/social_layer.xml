@@ -1,0 +1,5 @@
+<library path="people_costmap_layer_core">
+  <class name="people_costmap_layer::SocialLayer" type="people_costmap_layer::SocialLayer" base_class_type="nav2_costmap_2d::Layer">
+    <description>This is plugin-based layer for the navigation stack that implement social navigation contraints</description>
+  </class>
+</library>
